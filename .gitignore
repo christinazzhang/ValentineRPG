@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+[Ll]ibrary
+[Ll]ogs
+[Oo]bj
+[Tt]emp
+[Uu]ser[Ss]ettings
